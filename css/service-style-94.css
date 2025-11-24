@@ -5987,7 +5987,8 @@ body {
 
 @media(min-width: 991px) {
   .service-title_apply-geo-due-no-wrap,
-  .service-title_result-geo-due-no-wrap {
+  .service-title_result-geo-due-no-wrap,
+  .service-title_core-geo-plan {
     white-space: nowrap;
   }
   .service-sec-core__img_geo-due-mobile {
